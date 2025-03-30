@@ -4,7 +4,7 @@
 Este projeto tem como objetivo implementar um sistema de gerenciamento de inventário inspirado no jogo Minecraft, utilizando tecnologias como PHP, HTML e CSS com Bootstrap. O sistema permite adicionar, remover e visualizar itens de um inventário.
 
 ## O que é um inventário de um jogo?
-No contexto dos jogos eletrônicos, um inventário é um sistema que armazena e gerencia os itens adquiridos pelo jogador. No Minecraft, ele é essencial para organizar recursos, ferramentas e itens coletados durante o jogo, permitindo um gerenciamento eficiente dentro da gameplay.
+Nos jogos eletrônicos, um inventário é um sistema que armazena e gerencia os itens adquiridos pelo jogador. No Minecraft, ele é essencial para organizar recursos, ferramentas e itens coletados durante o jogo, permitindo um gerenciamento eficiente dentro da gameplay.
 
 ## Quais sistemas interligam a funcionalidade?
 O inventário interliga diferentes sistemas do jogo, como:
@@ -24,8 +24,9 @@ O sistema de inventário é essencial para a organização de itens, facilitando
 
 #### Como o layout foi feito? (Linhas x Colunas)
 - O inventário é estruturado em uma grade (grid) com **9 colunas e 3 linhas**, totalizando 27 slots.
-- A barra rápida é uma linha de **9 colunas**.
 - Cada item é representado por um espaço contendo uma imagem e a quantidade.
+- 
+![3](https://github.com/user-attachments/assets/2234a9a5-1e6e-46bb-84ba-c195e1741917)
 
 ### Back-End
 #### Quais ferramentas/linguagens foram utilizadas?
@@ -42,7 +43,7 @@ O sistema de inventário é essencial para a organização de itens, facilitando
 
 ## Passo a passo para executar o sistema
 1. Baixe ou clone o repositório do projeto.
-2. Coloque os arquivos em um servidor local com suporte a PHP (XAMPP, WAMP, etc.).
+2. Coloque os arquivos em um servidor local com suporte a PHP (XAMPP).
 3. Inicie o servidor e acesse `index.php` pelo navegador.
 4. Efetue login com as credenciais predefinidas.
 5. Utilize as funcionalidades para cadastrar e visualizar itens.
