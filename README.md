@@ -36,7 +36,7 @@ O sistema de inventário é essencial para a organização de itens, facilitando
 
 
 - **Arquivo TXT:** Utilizado como banco de dados simples para armazenar os itens do inventário.
-  ![txt](https://github.com/user-attachments/assets/79aa2e82-9387-4a60-b2ed-85f1c8605d09)
+![txt](https://github.com/user-attachments/assets/79aa2e82-9387-4a60-b2ed-85f1c8605d09)
 
 
 ## Código PHP
