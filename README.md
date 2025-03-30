@@ -1,7 +1,7 @@
 # Inventário Minecraft - README
 
 ## Objetivo da Atividade
-Este projeto tem como objetivo implementar um sistema de gerenciamento de inventário inspirado no jogo Minecraft, utilizando tecnologias como PHP, HTML e CSS com Bootstrap. O sistema permite adicionar, remover e visualizar itens de um inventário, proporcionando uma experiência interativa e organizada.
+Este projeto tem como objetivo implementar um sistema de gerenciamento de inventário inspirado no jogo Minecraft, utilizando tecnologias como PHP, HTML e CSS com Bootstrap. O sistema permite adicionar, remover e visualizar itens de um inventário.
 
 ## O que é um inventário de um jogo?
 No contexto dos jogos eletrônicos, um inventário é um sistema que armazena e gerencia os itens adquiridos pelo jogador. No Minecraft, ele é essencial para organizar recursos, ferramentas e itens coletados durante o jogo, permitindo um gerenciamento eficiente dentro da gameplay.
