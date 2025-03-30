@@ -32,17 +32,23 @@ O sistema de inventário é essencial para a organização de itens, facilitando
 ### Back-End
 #### Quais ferramentas/linguagens foram utilizadas?
 - **PHP:** Para processar a lógica do sistema, autenticação do usuário e manipulação dos itens.
-  ![login](https://github.com/user-attachments/assets/232618ac-8e9f-44a8-9edf-9f7cbdec72ca) ![inventario](https://github.com/user-attachments/assets/2e5024fb-b004-4620-93f8-3b66c6a223f6)
+ 
 
 
 - **Arquivo TXT:** Utilizado como banco de dados simples para armazenar os itens do inventário.
+  ![txt](https://github.com/user-attachments/assets/79aa2e82-9387-4a60-b2ed-85f1c8605d09)
+
 
 ## Código PHP
 #### O que o código faz? (Explicar as principais funcionalidades)
 - **`index.php`**: Página inicial com um botão de entrada para a tela de login.
+  ![1](https://github.com/user-attachments/assets/60b8ec5e-b74a-4a0c-aeb7-a089ea0006f5)
 - **`login.php`**: Realiza a autenticação do usuário.
+  ![2](https://github.com/user-attachments/assets/374f57f4-0ce1-4662-9b98-e7fbb4ca8c59) ![login](https://github.com/user-attachments/assets/95e55a98-0d7e-4633-b926-99b1c600a2dd)
 - **`cadastro.php`**: Permite adicionar itens ao inventário.
+ ![4](https://github.com/user-attachments/assets/46cbcd9c-98fe-456e-962f-589c55acf6d8) ![cadastro](https://github.com/user-attachments/assets/23bf8d18-37b1-49be-8fab-42442b8ea781)
 - **`inventario.php`**: Exibe os itens do inventário e a barra rápida.
+  ![3](https://github.com/user-attachments/assets/72c2171b-98d5-4147-a734-b9a6a8b8b4d9) ![inventario](https://github.com/user-attachments/assets/0be271d7-4162-462a-8ca0-04f277c5cf7d)
 - **`logout.php`**: Finaliza a sessão do usuário.
 
 ## Passo a passo para executar o sistema
