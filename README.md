@@ -25,8 +25,8 @@ O sistema de inventário é essencial para a organização de itens, facilitando
 #### Como o layout foi feito? (Linhas x Colunas)
 - O inventário é estruturado em uma grade (grid) com **9 colunas e 3 linhas**, totalizando 27 slots.
 - Cada item é representado por um espaço contendo uma imagem e a quantidade.
-- 
-![3](https://github.com/user-attachments/assets/2234a9a5-1e6e-46bb-84ba-c195e1741917)
+- <img src="(https://github.com/user-attachments/assets/2234a9a5-1e6e-46bb-84ba-c195e1741917)" alt="Texto Alternativo">, width="50%. 
+
 
 ### Back-End
 #### Quais ferramentas/linguagens foram utilizadas?
