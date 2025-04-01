@@ -13,8 +13,11 @@ O inventário interliga diferentes sistemas do jogo, como:
 - **Interface gráfica:** Exibe o inventário e a barra rápida organizadamente.
 - **Cadastro de itens:** Possibilita a adição de itens.
 
-## Por que uma funcionalidade é importante?
+## Por que uma funcionalidade é importante? **`jogo`**
 O sistema de inventário é importante porque permite que o jogador organize e use seus itens de forma fácil. Sem ele, seria muito difícil encontrar e gerenciar os objetos coletados no jogo. Ele ajuda a manter tudo organizado, tornando a experiência mais prática e divertida.
+
+## Por que uma funcionalidade é importante? **`projeto`**
+A funcionalidade do inventário no meu projeto é essencial para organizar os itens de maneira clara e acessível. Ela permite que os usuários visualizem seus itens, adicionem novos e utilizem a barra rápida para acesso rápido. Sem essa funcionalidade, a navegação e o gerenciamento de itens seriam confusos e menos intuitivos.
 
 ## Implementação
 ### Front-End
