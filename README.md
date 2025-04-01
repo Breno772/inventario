@@ -39,7 +39,7 @@ A funcionalidade do inventário no meu projeto é essencial para organizar os it
 
 
 - **Arquivo TXT:** Utilizado como banco de dados simples para armazenar os itens do inventário.
-![txt](https://github.com/user-attachments/assets/79aa2e82-9387-4a60-b2ed-85f1c8605d09)
+   ![txt](https://github.com/user-attachments/assets/79aa2e82-9387-4a60-b2ed-85f1c8605d09)
 
 
 ## Código PHP
@@ -50,7 +50,7 @@ A funcionalidade do inventário no meu projeto é essencial para organizar os it
   ![2](https://github.com/user-attachments/assets/374f57f4-0ce1-4662-9b98-e7fbb4ca8c59) ![login](https://github.com/user-attachments/assets/95e55a98-0d7e-4633-b926-99b1c600a2dd)
 - **`cadastro.php`**: Permite adicionar itens ao inventário.
  ![4](https://github.com/user-attachments/assets/46cbcd9c-98fe-456e-962f-589c55acf6d8) ![cadastro](https://github.com/user-attachments/assets/23bf8d18-37b1-49be-8fab-42442b8ea781)
-- **`inventario.php`**: Exibe os itens do inventário e a barra rápida.
+- **`inventario.php`**: Exibe os itens do inventário.
   ![3](https://github.com/user-attachments/assets/72c2171b-98d5-4147-a734-b9a6a8b8b4d9) ![inventario](https://github.com/user-attachments/assets/0be271d7-4162-462a-8ca0-04f277c5cf7d)
 - **`logout.php`**: Finaliza a sessão do usuário.
 
