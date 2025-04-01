@@ -11,7 +11,7 @@ O inventário interliga diferentes sistemas do jogo, como:
 - **Armazenamento de dados:** O sistema salva os itens em um arquivo de texto (`inventario.txt`).
 - **Autenticação:** O acesso ao inventário é protegido por uma página de login.
 - **Interface gráfica:** Exibe o inventário e a barra rápida organizadamente.
-- **Cadastro e remoção de itens:** Possibilita a adição e remoção de itens dinamicamente.
+- **Cadastro de itens:** Possibilita a adição de itens.
 
 ## Por que uma funcionalidade é importante?
 O sistema de inventário é essencial para a organização de itens, facilitando a interação do usuário com os objetos disponíveis no jogo. Sem ele, o gerenciamento de recursos seria caótico e dificultaria a experiência do jogador.
