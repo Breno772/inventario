@@ -27,7 +27,8 @@ Além dos jogos, o inventário também é usado em lojas, hospitais e armazéns 
 #### Como o layout foi feito? (Linhas x Colunas)
 - O inventário é estruturado em uma grade (grid) com 27 slots.
 - Cada item é representado por um espaço contendo uma imagem e a quantidade.
-![3](https://github.com/user-attachments/assets/6c355581-4c25-4c8d-8bc6-182879020f5c)
+![inv](https://github.com/user-attachments/assets/a906bd9d-eae3-4b37-a4db-fd51df6831f8)
+
 
 
 
