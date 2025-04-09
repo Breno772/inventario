@@ -47,7 +47,8 @@ Além dos jogos, o inventário também é usado em lojas, hospitais e armazéns 
 - **`index.php`**: Página inicial com um botão de entrada para a tela de login.
   ![1](https://github.com/user-attachments/assets/60b8ec5e-b74a-4a0c-aeb7-a089ea0006f5)
 - **`login.php`**: Realiza a autenticação do usuário.
-  ![2](https://github.com/user-attachments/assets/374f57f4-0ce1-4662-9b98-e7fbb4ca8c59) ![login](https://github.com/user-attachments/assets/95e55a98-0d7e-4633-b926-99b1c600a2dd)
+  ![2](https://github.com/user-attachments/assets/374f57f4-0ce1-4662-9b98-e7fbb4ca8c59) ![a](https://github.com/user-attachments/assets/cb2d09c4-c3d2-46a4-98f5-2a194fde0ab0)
+
 - **`cadastro.php`**: Permite adicionar itens ao inventário.
  ![4](https://github.com/user-attachments/assets/46cbcd9c-98fe-456e-962f-589c55acf6d8) ![cadastro](https://github.com/user-attachments/assets/23bf8d18-37b1-49be-8fab-42442b8ea781)
 - **`inventario.php`**: Exibe os itens do inventário.
