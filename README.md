@@ -5,8 +5,8 @@ Este projeto tem como objetivo implementar um sistema de gerenciamento de invent
 
 ## O que é um inventário de um jogo?
 Nos jogos eletrônicos, um inventário é um sistema que armazena e gerencia os itens adquiridos pelo jogador. No Minecraft, ele é essencial para organizar recursos, ferramentas e itens coletados durante o jogo, permitindo um gerenciamento eficiente dentro da gameplay.
-- *`Fallout 4`*
-- *`The Witcher III`*
+- **Fallout 4**
+- **The Witcher III**
 
 ## Quais sistemas interligam a funcionalidade?
 A funcionalidade de inventário é usada em diversos sistemas, como:
