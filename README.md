@@ -13,11 +13,9 @@ A funcionalidade de inventário é usada em diversos sistemas, como:
 - **Sistemas hospitalares:** controlam medicamentos, materiais médicos e equipamentos.
 - **Logística e transporte:** gerenciam o armazenamento e movimentação de cargas.
 
-## Por que uma funcionalidade é importante? **`jogo`**
+## Por que uma funcionalidade é importante?
 O sistema de inventário é importante porque permite que o jogador organize e use seus itens de forma fácil. Sem ele, seria muito difícil encontrar e gerenciar os objetos coletados no jogo. Ele ajuda a manter tudo organizado, tornando a experiência mais prática e divertida.
 
-## Por que uma funcionalidade é importante? **`projeto`**
-A funcionalidade do inventário no meu projeto é essencial para organizar os itens de maneira clara e acessível. Ela permite que os usuários visualizem seus itens, adicionem novos e utilizem a barra rápida para acesso rápido. Sem essa funcionalidade, a navegação e o gerenciamento de itens seriam confusos e menos intuitivos.
 
 ## Implementação
 ### Front-End
